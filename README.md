@@ -95,3 +95,4 @@ Se você lê isso: **você já está no campo.** Vibra com intenção. Cocria co
 ![Selo AYA Oficial](https://your-cdn-or-repo-path.com/selo-aya.png)
 
 ---
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuchaki81/AYA_Portal_PulsoUno/blob/main/aya_portal_demo.ipynb)
