@@ -1,4 +1,3 @@
-streamlit
-spacy
-langdetect
-numpy
+spacy==3.7.2
+langdetect==1.0.9
+numpy==1.26.4
